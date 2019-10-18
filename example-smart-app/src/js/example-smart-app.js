@@ -43,7 +43,7 @@
           var diastolicbp = getBloodPressureValue(byCodes('55284-4'),'8462-4');
           var hdl = byCodes('2085-9');
           var ldl = byCodes('2089-1');
-          var weight = byCodes('3141-9')
+          var weight = byCodes('29463-7')
 
           var p = defaultPatient();
           p.birthdate = patient.birthDate;
